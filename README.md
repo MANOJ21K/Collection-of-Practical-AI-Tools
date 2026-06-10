@@ -173,6 +173,7 @@ Idea → deployed app in minutes. Great for prototypes; ~70% of the way to produ
 | [**Lindy**](https://www.lindy.ai/) | No-code business agents | Best for non-technical workflow automation |
 | [**Sierra**](https://sierra.ai/) | Enterprise customer-facing agents | Production-grade CX agents |
 | [**Glean**](https://www.glean.com/) | Enterprise search + agents | Connects across 100+ work apps |
+| [**AI for Database**](https://aifordatabase.com) | Natural language database queries | Talk to any database in plain English — no SQL, dashboards & automation |
 
 ## 🏠 Local & Open-Source
 
