@@ -136,6 +136,7 @@ Less typing, less status-meeting drudgery.
 | [**Lex**](https://lex.page/) | Long-form writers — feels like Google Docs + AI |
 | [**Sudowrite**](https://www.sudowrite.com/) | Fiction & creative writing |
 | [**Grammarly**](https://www.grammarly.com/) | Polish, tone, business writing |
+| [**CreatorSkills**](https://creatorskills.co) | 30+ downloadable AI skill packs for content creators (YouTube scripting, sponsorship analysis, audience growth) |
 
 ## 🧑‍💻 AI Coding & IDEs
 
