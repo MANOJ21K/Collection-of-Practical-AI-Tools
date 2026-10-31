@@ -173,6 +173,7 @@ Idea → deployed app in minutes. Great for prototypes; ~70% of the way to produ
 | [**Lindy**](https://www.lindy.ai/) | No-code business agents | Best for non-technical workflow automation |
 | [**Sierra**](https://sierra.ai/) | Enterprise customer-facing agents | Production-grade CX agents |
 | [**Glean**](https://www.glean.com/) | Enterprise search + agents | Connects across 100+ work apps |
+| [**agent-qa**](https://vostride.com) | Web/mobile QA agent | Persistent memidex memory, validated self-improvement and reviewable evidence through CLI/MCP |
 
 ## 🏠 Local & Open-Source
 
